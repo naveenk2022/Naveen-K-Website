@@ -94,7 +94,7 @@ sections:
           date_start: '2019-03-01'
           date_end: '2020-03-01'
           description: |2-
-              Rotated through : 
+              Rotated through the following departments : 
               
               * Internal Medicine    
               * General Surgery 
