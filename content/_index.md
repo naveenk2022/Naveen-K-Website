@@ -84,7 +84,7 @@ sections:
 
               * Diagnosed and managed patients with psychiatric illnesses.
               * Learned to evaluate and diagnose patients in stressful environments.
-              * Assigned a goal of management of five patients per day, which was met.
+              * Was assigned a goal of management of five patients per day, which was met.
               * Learned diagnostic criteria for common psychiatric illnesses.
         - title: Intern Doctor
           company: Madras Medical College, Chennai, India
