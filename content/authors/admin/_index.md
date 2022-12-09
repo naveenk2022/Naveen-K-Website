@@ -55,5 +55,5 @@ email: ''
 highlight_name: true
 ---
 
-Naveen Kannan is a Graduate Student in the Biomedical and Health Informatics program at Case Western Reserve University. His research interests include GIS (Geographical Information Systems), Statistics, Bioinformatics and Genomics.  
+Naveen Kannan is a Graduate Student in the Biomedical and Health Informatics program at Case Western Reserve University. His research interests include GIS (Geographical Information Systems), Statistics, Bioinformatics and Genomics. 
 {style="text-align: justify;"}
