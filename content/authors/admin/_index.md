@@ -41,8 +41,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=RoRCNVIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -55,7 +55,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://github.com/naveenk2022/Naveen-Resume/blob/main/resume1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
