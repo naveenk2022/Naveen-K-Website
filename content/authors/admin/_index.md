@@ -16,22 +16,13 @@ role: Graduate Student, Biomedical and Health Informatics, Department of Populat
 organizations:
   - name: Case Western Reserve University
     url: https://case.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+    
 # Education to show in About widget
 education:
   courses:
     - course: MS in Biomedical and Health Informatics
       institution: Case Western Reserve University
-      year: 2012
+      year: 2022
     - course: Bachelor of Medicine and Bachelor of Surgery (MBBS)
       institution: Madras Medical College, Chennai, India
       year: 2020
