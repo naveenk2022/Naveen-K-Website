@@ -34,7 +34,7 @@ sections:
           icon_pack: fab 
         - name: SQL
           description: 
-          icon: sqldatabase
+          icon: postgresql
           icon_pack: fas 
   - block: experience
     content:

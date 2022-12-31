@@ -46,7 +46,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://github.com/naveenk2022/Naveen-Resume/blob/main/resume1.pdf
+    link: https://github.com/naveenk2022/Resume-Version-2/blob/main/CV-Vers2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -57,3 +57,4 @@ highlight_name: true
 
 Naveen Kannan is a Graduate Student in the Biomedical and Health Informatics program at Case Western Reserve University. His research interests include GIS (Geographical Information Systems), Statistics, Bioinformatics and Genomics. 
 {style="text-align: justify;"}
+
